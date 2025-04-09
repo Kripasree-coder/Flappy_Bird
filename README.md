@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🐦 Flappy Bird Game in Java
 
