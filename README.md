@@ -1,4 +1,3 @@
-```markdown
 # 🐦 Flappy Bird Game in Java
 
 A clone of the classic **Flappy Bird** game developed in **Java Swing**. This project simulates the addictive gameplay of navigating a bird through pairs of pipes using real-time keyboard input and graphics rendering.
